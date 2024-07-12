@@ -1,6 +1,6 @@
 document.write("<div class='tabelas'> ");
 
-document.write("<h1>Trabalho de WEB II</h1>");
+document.write("<h1>Trabalho de Matemática II</h1>");
 
 document.write("<h3><b><a href='sobre.html'>Sobre o trabalho</a><b></h3><br>");
 document.write("</div> ");
